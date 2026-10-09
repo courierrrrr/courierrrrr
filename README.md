@@ -1,16 +1,18 @@
-## Hi there 👋
+Hello, I'm Georgia!
 
-<!--
-**courierrrrr/courierrrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc student in **Applied Informatics** at the International Hellenic University, with a background in **Economics** (Aristotle University of Thessaloniki). Based in Greece.
+I'm interested in Medical Informatics, Software Development and Cybersecurity.
 
-Here are some ideas to get you started:
+**Currently working on:**
+MSc Thesis: Deep learning on capsule endoscopy images
+- Dataset: CrohnIPI (capsule endoscopy images of Crohn's disease)
+- Two-stage classification: normal vs. pathological, then lesion-type classification
+- Comparing CNNs (ResNet-50, EfficientNet-B5) against a Vision Transformer (ViT-B/16)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Setup:
+
+**Desktop** 
+-OS: Windows 10
+
+**Laptop**
+- OS: Arch Linux + Hyprland
