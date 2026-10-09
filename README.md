@@ -1,18 +1,18 @@
-# Hello, I'm Georgia! 👋
+# Hello, I'm Georgia! 
 
-🎓 MSc student in **Applied Informatics** at the [International Hellenic University](https://www.ihu.gr/)
-📊 Background in **Economics** from the [Aristotle University of Thessaloniki](https://www.auth.gr/)
-📍 Based in Greece
+MSc student in **Applied Informatics** at the [International Hellenic University](https://www.ihu.gr/)
+Background in **Economics** from the [Aristotle University of Thessaloniki](https://www.auth.gr/)
+Based in Greece
 
-### 💡 Interests
+# Interests
 
-- 🩺 Medical Informatics
-- 💻 Software Development
-- 🔐 Cybersecurity
+- Medical Informatics
+- Software Development
+- Cybersecurity
 
 ---
 
-### 🔬 Currently working on
+# Currently working on
 
 **MSc Thesis: Deep learning on capsule endoscopy images**
 
@@ -22,13 +22,7 @@
   2. Lesion-type classification
 - **Models:** CNNs (**ResNet-50**, **EfficientNet-B5**) compared against a Vision Transformer (**ViT-B/16**)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Computer%20Vision-blueviolet?style=flat)
-
----
-
-### 🖥️ Setup
+# Setup
 
 | | Machine | OS / Environment |
 |---|---|---|
