@@ -1,18 +1,36 @@
-Hello, I'm Georgia!
+# Hello, I'm Georgia! 👋
 
-MSc student in **Applied Informatics** at the International Hellenic University, with a background in **Economics** (Aristotle University of Thessaloniki). Based in Greece.
-I'm interested in Medical Informatics, Software Development and Cybersecurity.
+🎓 MSc student in **Applied Informatics** at the [International Hellenic University](https://www.ihu.gr/)
+📊 Background in **Economics** from the [Aristotle University of Thessaloniki](https://www.auth.gr/)
+📍 Based in Greece
 
-**Currently working on:**
-MSc Thesis: Deep learning on capsule endoscopy images
-- Dataset: CrohnIPI (capsule endoscopy images of Crohn's disease)
-- Two-stage classification: normal vs. pathological, then lesion-type classification
-- Comparing CNNs (ResNet-50, EfficientNet-B5) against a Vision Transformer (ViT-B/16)
+### 💡 Interests
 
-Setup:
+- 🩺 Medical Informatics
+- 💻 Software Development
+- 🔐 Cybersecurity
 
-**Desktop** 
--OS: Windows 10
+---
 
-**Laptop**
-- OS: Arch Linux + Hyprland
+### 🔬 Currently working on
+
+**MSc Thesis: Deep learning on capsule endoscopy images**
+
+- **Dataset:** [CrohnIPI](https://crohnipi.ls2n.fr/), capsule endoscopy images of Crohn's disease
+- **Approach:** two-stage classification
+  1. Normal vs. pathological
+  2. Lesion-type classification
+- **Models:** CNNs (**ResNet-50**, **EfficientNet-B5**) compared against a Vision Transformer (**ViT-B/16**)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Computer%20Vision-blueviolet?style=flat)
+
+---
+
+### 🖥️ Setup
+
+| | Machine | OS / Environment |
+|---|---|---|
+| 🖥️ | **Desktop** | ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D4?style=flat&logo=windows11&logoColor=white) |
+| 💻 | **Laptop** | ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat&logo=archlinux&logoColor=white) ![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=flat&logo=hyprland&logoColor=black) |
