@@ -2,7 +2,6 @@
 
 MSc student in **Applied Informatics** at the [International Hellenic University](https://www.ihu.gr/)
 Background in **Economics** from the [Aristotle University of Thessaloniki](https://www.auth.gr/)
-Based in Greece
 
 # Interests
 
